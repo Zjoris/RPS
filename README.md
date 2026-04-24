@@ -4,8 +4,8 @@ A little project so I can play rock paper scissor with my laptop when I am bored
 
 1. Recognize gestures
 
+* CNN (torch basic example)
 * convnext (fine tuned)
-* CNN (trained self)
 * mediapipe
 
 2. Recognize when game starts
@@ -18,3 +18,5 @@ A little project so I can play rock paper scissor with my laptop when I am bored
 * [Using mediapipe for gesture recognition](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/python)
 
 * [RPS image dataset](https://storage.googleapis.com/mediapipe-tasks/gesture_recognizer/rps_data_sample.zip)
+
+* [Downloading colab files in vscode](https://github.com/amiraliaskari2014/VScode_Colab_Download)
